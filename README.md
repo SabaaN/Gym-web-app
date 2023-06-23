@@ -9,9 +9,9 @@ To install and run this project locally on your machine, please follow these ste
 
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/your-username/repository.git
+git clone [https://github.com/your-username/repository.git](https://github.com/SabaaN/Gym-web-app.git)
 
-cd repository
+cd gym-web-app
 
 Install the required dependencies by running the following command:
 
