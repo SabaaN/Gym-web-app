@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+## 'Gym Website'
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a gym website built using React, which utilizes two APIs: Exercise DB API and YouTube Search and Download API. It provides users with exercise workout plans, exercise recommendations, and comprehensive details about various exercises.
 
-## Available Scripts
 
-In the project directory, you can run:
+The Gym Website is a comprehensive platform designed to assist users in their fitness journey. It offers a range of features, including exercise workout plans, exercise recommendations, and detailed information about different exercises. The website is built on React, providing a responsive and user-friendly interface.
 
-### `npm start`
+To install and run this project locally on your machine, please follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clone the repository to your local machine using the following command:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+git clone https://github.com/your-username/repository.git
 
-### `npm test`
+cd repository
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install the required dependencies by running the following command:
 
-### `npm run build`
+npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Once you have installed the necessary dependencies, you can start the project by executing the following command:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This will launch the website locally, and you can access it in your web browser at http://localhost:3000.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project integrates two APIs to enhance its functionality. Here are the details of the APIs used:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The Exercise DB API provides access to a vast database of exercises and their related information. It allows the website to retrieve workout plans, exercise details, and recommendations based on user preferences.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The YouTube Search and Download API enables the website to search for exercise-related videos on YouTube and download them for offline viewing. This feature enhances the user's workout experience by providing visual guidance and instructions.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
