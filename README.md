@@ -35,5 +35,5 @@ The YouTube Search and Download API enables the website to search for exercise-r
 
 ## License
 
-This project is registered under MIT license
+This project is distributed under MIT license
 
