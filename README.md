@@ -26,6 +26,9 @@ npm start
 This will launch the website locally, and you can access it in your web browser at http://localhost:3000.
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 This project integrates two APIs to enhance its functionality. Here are the details of the APIs used:
 
 The Exercise DB API provides access to a vast database of exercises and their related information. It allows the website to retrieve workout plans, exercise details, and recommendations based on user preferences.
