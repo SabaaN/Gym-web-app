@@ -5,6 +5,8 @@ This project is a gym website built using React, which utilizes two APIs: Exerci
 
 The Gym Website is a comprehensive platform designed to assist users in their fitness journey. It offers a range of features, including exercise workout plans, exercise recommendations, and detailed information about different exercises. The website is built on React, providing a responsive and user-friendly interface.
 
+## Installation
+
 To install and run this project locally on your machine, please follow these steps:
 
 Clone the repository to your local machine using the following command:
@@ -31,4 +33,7 @@ The Exercise DB API provides access to a vast database of exercises and their re
 
 The YouTube Search and Download API enables the website to search for exercise-related videos on YouTube and download them for offline viewing. This feature enhances the user's workout experience by providing visual guidance and instructions.
 
+## License
+
+This project is registered under MIT license
 
