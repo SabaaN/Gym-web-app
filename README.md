@@ -31,10 +31,10 @@ This will launch the website locally, and you can access it in your web browser 
 
 This project integrates two APIs to enhance its functionality. Here are the details of the APIs used:
 
-The Exercise DB API provides access to a vast database of exercises and their related information. It allows the website to retrieve workout plans, exercise details, and recommendations based on user preferences.
+The Exercise DB API: This API provides access to a vast database of exercises and their related information. It allows the website to retrieve workout plans, exercise details, and recommendations based on user preferences.
 
 
-The YouTube Search and Download API enables the website to search for exercise-related videos on YouTube and download them for offline viewing. This feature enhances the user's workout experience by providing visual guidance and instructions.
+The YouTube Search and Download API: This API enables the website to search for exercise-related videos on YouTube and download them for offline viewing. This feature enhances the user's workout experience by providing visual guidance and instructions.
 
 ## License
 
