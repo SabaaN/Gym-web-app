@@ -1,4 +1,4 @@
-## 'Gym Application'
+## Workout App'
 
 This project is a gym website built using React, which utilizes two APIs: Exercise DB API and YouTube Search and Download API. It provides users with exercise workout plans, exercise recommendations, and comprehensive details about various exercises.
 
