@@ -6,7 +6,7 @@ import { exerciseOptions, fetchData, youtubeOptions } from '../utils/fetchData';
 
 import Detail from '../components/Detail';
 import ExerciseVideos from '../components/ExerciseVideos';
-import SimilarExercises from '../components/SimilarExercises';
+import SimilarExercises from '../components/SimilarExercisess';
 
 
 const ExerciseDetail = () => {
